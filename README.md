@@ -3,7 +3,10 @@ Daniel André 👋
 ![DanielAndre1799 GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielAndre1799&show_icons=true&theme=dracula)
 
 [![Blog](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://)
-
+<div>
+<a href="https://github.com/DanielAndre1799">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielAndre1799&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 ### Tecnologia que estou estudando
 <div style="display: inline_block"><br>
